@@ -1,15 +1,15 @@
 {
-  "latestVersion": "3.3",
-  "latestVersionCode": 33,
+  "latestVersion": "3.4",
+  "latestVersionCode": 340,
   "disableRequest": {
-    "below": 33,
+    "below": 340,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplyminimal",
   "releaseNotes": [
     "Available now on <b>Google Play Store</b>",
-    "Add New <b>Simply Minimal</b> Icons",
-	"Added <b>Premium Request</b> Icons",
-    "Material You <b>Dashboard</b> Enhancements"
+    "Include <b>3.400+ Icons</b>",
+	"<b>Themed</b> 13.000+ Icon Apps",
+    "Added and Redesigned <b>Many Icons</b>"
   ]
 }
