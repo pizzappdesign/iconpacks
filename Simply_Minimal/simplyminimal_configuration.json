@@ -1,8 +1,8 @@
 {
-  "latestVersion": "3.4.1",
-  "latestVersionCode": 341,
+  "latestVersion": "3.4.3",
+  "latestVersionCode": 343,
   "disableRequest": {
-    "below": 341,
+    "below": 343,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplyminimal",
