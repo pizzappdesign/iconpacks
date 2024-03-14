@@ -1,16 +1,14 @@
 {
-  "latestVersion": "3.4.3",
-  "latestVersionCode": 343,
+  "latestVersion": "3.5",
+  "latestVersionCode": 350,
   "disableRequest": {
-    "below": 343,
+    "below": 350,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplyminimal",
   "releaseNotes": [
     "Available now on <b>Google Play Store</b>",
-	"Premium Icons Request <b>Hotfix</b>",
-    "Include <b>3.400+ Icons</b>",
-	"<b>Themed</b> 13.000+ Icon Apps",
-    "Added and Redesigned <b>Many Icons</b>"
+    "Added 100+ New <b>Silver Steel</b> Icons",
+    "Redesigned Few <b>Old Icon</b> Apps"
   ]
 }

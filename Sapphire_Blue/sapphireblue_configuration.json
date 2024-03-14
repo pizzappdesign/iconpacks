@@ -1,14 +1,14 @@
 {
-  "latestVersion": "3.4",
-  "latestVersionCode": 340,
+  "latestVersion": "3.5",
+  "latestVersionCode": 350,
   "disableRequest": {
-    "below": 340,
+    "below": 350,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.sapphireblue",
   "releaseNotes": [
     "Available now on <b>Google Play Store</b>",
-    "Added 100+ New <b>Sapphire Blue</b> Icons",
-    "Redesigned 5+ <b>Old Icon</b> Apps"
+    "Added 200+ New <b>Sapphire Blue</b> Icons",
+    "Redesigned 30+ <b>Old Icon</b> Apps"
   ]
 }
