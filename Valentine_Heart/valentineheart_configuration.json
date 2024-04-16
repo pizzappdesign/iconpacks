@@ -1,14 +1,14 @@
 {
-  "latestVersion": "3.5",
-  "latestVersionCode": 350,
+  "latestVersion": "3.6",
+  "latestVersionCode": 360,
   "disableRequest": {
-    "below": 350,
+    "below": 360,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.valentineheart",
   "releaseNotes": [
     "Available now on <b>Google Play Store</b>",
-    "Added 200+ New <b>Valentine Heart</b> Icons",
-    "Redesigned 30+ <b>Old Icon</b> Apps"
+    "Added 300+ New <b>Valentine Heart</b> Icons",
+    "Redesigned 10+ <b>Old Icon</b> Apps"
   ]
 }
