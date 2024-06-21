@@ -1,14 +1,14 @@
 {
-  "latestVersion": "3.7",
-  "latestVersionCode": 370,
+  "latestVersion": "3.8",
+  "latestVersionCode": 380,
   "disableRequest": {
-    "below": 370,
+    "below": 380,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.pinkflamingo",
   "releaseNotes": [
     "Available now on <b>Google Play Store</b>",
-    "Added 150+ New <b>Pink Flamingo</b> Icons",
+    "Added 200+ New <b>Pink Flamingo</b> Icons",
     "Redesigned 10+ <b>Old Icon</b> Apps"
   ]
 }
