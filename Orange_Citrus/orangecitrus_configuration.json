@@ -1,14 +1,15 @@
 {
-  "latestVersion": "3.8",
-  "latestVersionCode": 380,
+  "latestVersion": "3.9",
+  "latestVersionCode": 390,
   "disableRequest": {
-    "below": 380,
+    "below": 390,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.orangecitrus",
   "releaseNotes": [
     "Available now on <b>Google Play Store</b>",
-    "Added 200+ New <b>Orange Citrus</b> Icons",
-    "Redesigned 10+ <b>Old Icon</b> Apps"
+    "Added 140+ New <b>Orange Citrus</b> Icons",
+    "Redesigned 10+ <b>Old Icon</b> Apps",
+	"Newest <b>Dashboard</b> Version"
   ]
 }
