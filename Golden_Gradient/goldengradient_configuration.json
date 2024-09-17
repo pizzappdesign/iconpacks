@@ -1,15 +1,15 @@
 {
-  "latestVersion": "4.0",
-  "latestVersionCode": 400,
+  "latestVersion": "4.1",
+  "latestVersionCode": 410,
   "disableRequest": {
-    "below": 400,
+    "below": 410,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.goldengradient",
   "releaseNotes": [
     "Available now on <b>Google Play Store</b>",
-    "Added 100+ New <b>Golden Gradient</b> Icons",
-    "Redesigned 800+ <b>Old Icon</b> Apps",
+    "Added 250+ New <b>Golden Gradient</b> Icons",
+    "Redesigned 10+ <b>Old Icon</b> Apps",
 	"Major <b>Optimizations</b> Overall"
   ]
 }

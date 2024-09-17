@@ -1,14 +1,14 @@
 {
-  "latestVersion": "4.0",
-  "latestVersionCode": 400,
+  "latestVersion": "4.1",
+  "latestVersionCode": 410,
   "disableRequest": {
-    "below": 400,
+    "below": 410,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplyminimal",
   "releaseNotes": [
     "Available now on <b>Google Play Store</b>",
-    "Added 250+ New <b>Simply Minimal</b> Icons",
+    "Added 120+ New <b>Simply Minimal</b> Icons",
     "Redesigned Few <b>Old Icon</b> Apps",
 	"Major <b>Optimizations</b> Overall"
   ]
