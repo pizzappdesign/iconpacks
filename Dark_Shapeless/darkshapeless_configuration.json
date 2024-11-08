@@ -1,0 +1,14 @@
+{
+  "latestVersion": "4.2",
+  "latestVersionCode": 420,
+  "disableRequest": {
+    "below": 420,
+    "on": "0"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.italiano.darkshapeless",
+  "releaseNotes": [
+    "Brand New <b>Dark Shapeless</b> Icons",
+    "Free and Premium <b>Missing Icons</b> Request",
+	"Exclusive <b>Wallpapers</b> Included"
+  ]
+}
