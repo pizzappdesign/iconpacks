@@ -1,14 +1,14 @@
 {
-  "latestVersion": "4.2",
-  "latestVersionCode": 420,
+  "latestVersion": "4.3",
+  "latestVersionCode": 430,
   "disableRequest": {
-    "below": 420,
+    "below": 430,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.helmet",
   "releaseNotes": [
-    "Added 550+ New <b>Helmet</b> Icons",
-    "Redesigned 50+ <b>Old Icon</b> Apps",
-	"Major <b>Optimizations</b> Overall"
+    "✅ Added 250+ New <b>Helmet</b> Icons",
+    "✨ Redesigned 25+ <b>Old Icon</b> Apps",
+	"📱 Dashboard <b>UI</b> Changes"
   ]
 }
