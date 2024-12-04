@@ -1,0 +1,14 @@
+{
+  "latestVersion": "4.3",
+  "latestVersionCode": 430,
+  "disableRequest": {
+    "below": 430,
+    "on": "0"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.italiano.aesthetic",
+  "releaseNotes": [
+    "✅ Brand New Release",
+    "✨ Include 20.000+ Icons",
+	"📱 Exclusive Wallpapers"
+  ]
+}
