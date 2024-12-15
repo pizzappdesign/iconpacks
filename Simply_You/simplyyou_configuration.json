@@ -1,0 +1,14 @@
+{
+  "latestVersion": "4.3",
+  "latestVersionCode": 430,
+  "disableRequest": {
+    "below": 430,
+    "on": "0"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.italiano.simplyyou",
+  "releaseNotes": [
+    "✅ Brand New <b>Shapeless Material You</b> Icons",
+	"🌙 Change with <b>Dark/Light</b> Mode",
+	"📱 Exclusive <b>Wallpapers</b> Included"
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "latestVersion": "4.3",
-  "latestVersionCode": 430,
+  "latestVersionCode": 431,
   "disableRequest": {
-    "below": 430,
+    "below": 431,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplyadaptive",
