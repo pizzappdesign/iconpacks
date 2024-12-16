@@ -1,12 +1,13 @@
 {
-  "latestVersion": "4.3",
-  "latestVersionCode": 431,
+  "latestVersion": "4.4",
+  "latestVersionCode": 440,
   "disableRequest": {
-    "below": 431,
+    "below": 440,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplyadaptive",
   "releaseNotes": [
+    "WORK IN PROGRESS UPDATE",
     "✅ Brand New <b>Material You</b> Icons",
     "✨ Adaptive <b>Shapes</b> Apps",
 	"🌙 Change with <b>Dark/Light</b> Mode",

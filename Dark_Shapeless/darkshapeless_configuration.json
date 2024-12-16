@@ -1,12 +1,13 @@
 {
-  "latestVersion": "4.3",
-  "latestVersionCode": 430,
+  "latestVersion": "4.4",
+  "latestVersionCode": 440,
   "disableRequest": {
-    "below": 430,
+    "below": 440,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.darkshapeless",
   "releaseNotes": [
+    "WORK IN PROGRESS UPDATE",
     "🆕 Complete <b>New Style</b> Icons",
     "✅ Added 250+ New <b>Dark Shapeless</b> Icons",
     "✨ Redesigned 25+ <b>Old Icon</b> Apps",

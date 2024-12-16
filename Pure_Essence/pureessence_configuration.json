@@ -1,12 +1,13 @@
 {
-  "latestVersion": "4.3",
-  "latestVersionCode": 430,
+  "latestVersion": "4.4",
+  "latestVersionCode": 440,
   "disableRequest": {
-    "below": 430,
+    "below": 440,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.pureessence",
   "releaseNotes": [
+    "WORK IN PROGRESS UPDATE",
     "✅ Added 100+ New <b>Pure Essence</b> Icons",
     "✨ Redesigned 30+ <b>Old Icon</b> Apps",
 	"📱 Dashboard <b>UI</b> Changes"
