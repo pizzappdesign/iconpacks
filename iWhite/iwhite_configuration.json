@@ -1,14 +1,14 @@
 {
-  "latestVersion": "4.4",
-  "latestVersionCode": 440,
+  "latestVersion": "4.5",
+  "latestVersionCode": 450,
   "disableRequest": {
-    "below": 440,
+    "below": 450,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.iwhite",
   "releaseNotes": [
-    "✅ 24.000+ <b>iWhite</b> Icons",
-    "✨ Exclusive <b>Matching</b> Wallpapers",
-	"📱 Covering <b>43.000+</b> Apps"
+    "✅ Added 250+ New <b>iWhite</b> Icons",
+    "✨ Redesigned 40+ <b>Old</b> Icons",
+	"📱 General Improvements"
   ]
 }

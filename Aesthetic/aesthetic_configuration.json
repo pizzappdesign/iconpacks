@@ -1,14 +1,14 @@
 {
-  "latestVersion": "4.4",
-  "latestVersionCode": 440,
+  "latestVersion": "4.5",
+  "latestVersionCode": 450,
   "disableRequest": {
-    "below": 440,
+    "below": 450,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.aesthetic",
   "releaseNotes": [
-    "✅ Added 150+ New <b>Aesthetic</b> Icons",
-    "✨ Redesigned 15+ <b>Old Icon</b> Apps",
-	"📱 Dashboard <b>UI</b> Changes"
+    "✅ Added 250+ New <b>Aesthetic</b> Icons",
+    "✨ Redesigned 40+ <b>Old</b> Icons",
+	"📱 General Improvements"
   ]
 }
