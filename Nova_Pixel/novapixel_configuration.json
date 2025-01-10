@@ -1,8 +1,8 @@
 {
-  "latestVersion": "4.5",
-  "latestVersionCode": 450,
+  "latestVersion": "4.4",
+  "latestVersionCode": 440,
   "disableRequest": {
-    "below": 450,
+    "below": 440,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.novapixel",
