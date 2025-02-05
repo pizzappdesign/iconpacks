@@ -1,14 +1,14 @@
 {
-  "latestVersion": "4.5",
-  "latestVersionCode": 450,
+  "latestVersion": "4.6",
+  "latestVersionCode": 460,
   "disableRequest": {
-    "below": 450,
+    "below": 460,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.eclipsetransparent",
   "releaseNotes": [
     "✅ Include 20.000+ Eclipse Transparent Icons",
-    "✨ Covering 40.000+ Apps",
+    "✨ Covering 50.000+ Apps",
 	"📱 Easy to use Dashboard"
   ]
 }
