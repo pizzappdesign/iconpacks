@@ -1,14 +1,14 @@
 {
-  "latestVersion": "4.6",
-  "latestVersionCode": 460,
+  "latestVersion": "4.7",
+  "latestVersionCode": 470,
   "disableRequest": {
-    "below": 460,
+    "below": 470,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.pureessence",
   "releaseNotes": [
-    "✅ Added 70+ <b>New</b> Icons",
+    "✅ Added 300+ <b>New</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"📱 General Improvements"
+	"📱 New Dynamic Calendars"
   ]
 }

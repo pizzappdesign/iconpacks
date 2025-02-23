@@ -1,5 +1,5 @@
 {
-  "latestVersion": "4.6",
+  "latestVersion": "4.7",
   "latestVersionCode": 460,
   "disableRequest": {
     "below": 460,
@@ -7,8 +7,8 @@
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.deepvoid",
   "releaseNotes": [
-    "✅ Include 20.000+ Deep Void Icons",
-    "✨ Covering 40.000+ Apps",
-	"📱 Easy to use Dashboard"
+    "✅ Added 500+ New <b>Deep Void</b> Icons",
+    "✨ Redesigned 100+ <b>Old</b> Icons",
+	"📱 New Dynamic Calendars"
   ]
 }
