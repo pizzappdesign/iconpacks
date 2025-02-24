@@ -1,13 +1,13 @@
 {
   "latestVersion": "4.7",
-  "latestVersionCode": 460,
+  "latestVersionCode": 470,
   "disableRequest": {
-    "below": 460,
+    "below": 470,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.pinkflamingo",
   "releaseNotes": [
-    "✅ Added 500+ New <b>Pink Flamingo</b> Icons",
+    "✅ Added 700+ New <b>Pink Flamingo</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
 	"📱 New Dynamic Calendars"
   ]
