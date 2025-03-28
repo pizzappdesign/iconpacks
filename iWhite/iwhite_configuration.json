@@ -1,15 +1,14 @@
 {
-  "latestVersion": "4.8",
-  "latestVersionCode": 480,
+  "latestVersion": "4.9",
+  "latestVersionCode": 490,
   "disableRequest": {
-    "below": 480,
+    "below": 490,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.iwhite",
   "releaseNotes": [
-    "✅ Added 250+ New <b>iWhite</b> Icons",
-    "✨ Redesigned 20+ <b>Old</b> Icons",
-	"🍎 Added <b>iOS</b> Icons",
-	"🔧 Minor Fixes"
+    "✅ Added 400+ New <b>iWhite</b> Icons",
+    "✨ Redesigned 300+ <b>Old</b> Icons",
+	"🔧 Rolling Out Soon"
   ]
 }
