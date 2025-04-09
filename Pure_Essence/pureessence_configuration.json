@@ -1,14 +1,14 @@
 {
-  "latestVersion": "4.9",
-  "latestVersionCode": 490,
+  "latestVersion": "5.0",
+  "latestVersionCode": 500,
   "disableRequest": {
-    "below": 490,
+    "below": 500,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.pureessence",
   "releaseNotes": [
     "✅ Added 150+ <b>New</b> Black Icons",
     "✨ Redesigned 70+ <b>Old</b> Icons",
-	"📱 Android 16 Support"
+	"📱 Coming Soon"
   ]
 }
