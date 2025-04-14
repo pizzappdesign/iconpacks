@@ -1,0 +1,14 @@
+{
+  "latestVersion": "5.0",
+  "latestVersionCode": 500,
+  "disableRequest": {
+    "below": 500,
+    "on": "0"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.italiano.glassyround",
+  "releaseNotes": [
+    "✅ 25.000+ <b>Glassy Round</b> Icons",
+    "✨ Covering <b>40.000+</b> Apps",
+	"🖼 Exclusive <b>Wallpapers</b> Included",
+  ]
+}
