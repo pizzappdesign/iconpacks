@@ -1,13 +1,13 @@
 {
-  "latestVersion": "5.1",
-  "latestVersionCode": 510,
+  "latestVersion": "5.2",
+  "latestVersionCode": 520,
   "disableRequest": {
-    "below": 510,
+    "below": 520,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.iwhite",
   "releaseNotes": [
-    "✅ Added 700+ New <b>iWhite</b> Icons",
-    "✨ Redesigned 500+ <b>Old</b> Icons",
+    "✅ Added 600+ New <b>iWhite</b> Icons",
+    "✨ Redesigned 900+ <b>Old</b> Icons",
   ]
 }

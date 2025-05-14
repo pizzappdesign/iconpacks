@@ -1,14 +1,13 @@
 {
-  "latestVersion": "5.1.1",
-  "latestVersionCode": 512,
+  "latestVersion": "5.2",
+  "latestVersionCode": 520,
   "disableRequest": {
-    "below": 512,
+    "below": 520,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplyyou",
   "releaseNotes": [
-    "🆕 Support Material You Masking",
-    "✅ Added 700+ New <b>Simply You</b> Icons",
-    "✨ Redesigned 500+ <b>Old</b> Icons",
+    "✅ Added 600+ New <b>Simply You</b> Icons",
+    "✨ Redesigned 900+ <b>Old</b> Icons",
   ]
 }
