@@ -1,0 +1,13 @@
+{
+  "latestVersion": "5.2",
+  "latestVersionCode": 520,
+  "disableRequest": {
+    "below": 520,
+    "on": "0"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.italiano.pasteldark",
+  "releaseNotes": [
+    "✅ 25.000+ <b>Pastel Dark</b> Icons",
+    "✨ Covering <b>45.000+</b> Apps",
+  ]
+}
