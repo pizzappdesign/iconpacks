@@ -1,13 +1,13 @@
 {
-  "latestVersion": "5.2",
-  "latestVersionCode": 520,
+  "latestVersion": "5.3",
+  "latestVersionCode": 530,
   "disableRequest": {
-    "below": 520,
+    "below": 530,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.pastellight",
   "releaseNotes": [
-    "✅ 25.000+ <b>Pastel Light</b> Icons",
-    "✨ Covering <b>45.000+</b> Apps",
+    "✅ Added 650+ New <b>Pastel Light</b> Icons",
+    "✨ Redesigned 50+ <b>Old</b> Icons",
   ]
 }

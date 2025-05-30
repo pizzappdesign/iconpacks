@@ -1,13 +1,13 @@
 {
-  "latestVersion": "5.2",
-  "latestVersionCode": 520,
+  "latestVersion": "5.3",
+  "latestVersionCode": 530,
   "disableRequest": {
-    "below": 520,
+    "below": 530,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.iblack",
   "releaseNotes": [
-    "✅ Added 600+ New <b>iBlack</b> Icons",
-    "✨ Redesigned 900+ <b>Old</b> Icons",
+    "✅ Added 650+ New <b>iBlack</b> Icons",
+    "✨ Redesigned 50+ <b>Old</b> Icons",
   ]
 }
