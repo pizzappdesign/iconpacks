@@ -1,13 +1,13 @@
 {
-  "latestVersion": "5.3",
-  "latestVersionCode": 530,
+  "latestVersion": "5.4",
+  "latestVersionCode": 540,
   "disableRequest": {
-    "below": 530,
+    "below": 540,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.nightvoid",
   "releaseNotes": [
-    "✅ Added 650+ New <b>Night Void</b> Icons",
-    "✨ Redesigned 50+ <b>Old</b> Icons",
+    "✅ Added 700+ New <b>Night Void</b> Icons",
+    "✨ Redesigned 350+ <b>Old</b> Icons",
   ]
 }
