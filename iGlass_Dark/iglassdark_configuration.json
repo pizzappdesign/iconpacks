@@ -1,13 +1,15 @@
 {
-  "latestVersion": "5.5",
-  "latestVersionCode": 550,
+  "latestVersion": "5.6",
+  "latestVersionCode": 560,
   "disableRequest": {
-    "below": 550,
+    "below": 560,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.iglassdark",
   "releaseNotes": [
-    "✅ Include <b>28.000+</b> Icons",
-    "✨ Themed <b>45.000+</b> Apps",
+    "✅ Added 450+ New <b>Bronze Copper</b> Icons",
+    "✨ Redesigned 350+ <b>Old</b> Icons",
+	"Icons requested up to 5 August added",
+	"Icons after 6 August coming next update"
   ]
 }

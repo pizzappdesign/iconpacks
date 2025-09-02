@@ -1,15 +1,15 @@
 {
-  "latestVersion": "5.5",
-  "latestVersionCode": 550,
+  "latestVersion": "5.6",
+  "latestVersionCode": 560,
   "disableRequest": {
-    "below": 550,
+    "below": 560,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.midnightdark",
   "releaseNotes": [
-    "✅ Added 750+ New <b>Midnight Dark</b> Icons",
-    "✨ Redesigned 50+ <b>Old</b> Icons",
-	"Includes Icons Requested until 29 June",
-	"Premium Icons Requested after 30 June will be available on next update 5.6",
+    "✅ Added 450+ New <b>Midnight Dark</b> Icons",
+    "✨ Redesigned 350+ <b>Old</b> Icons",
+	"Icons requested up to 5 August added",
+	"Icons after 6 August coming next update"
   ]
 }
