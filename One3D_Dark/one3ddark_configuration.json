@@ -1,0 +1,13 @@
+{
+  "latestVersion": "5.7",
+  "latestVersionCode": 570,
+  "disableRequest": {
+    "below": 570,
+    "on": "0"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.italiano.one3ddark",
+  "releaseNotes": [
+    "✅ 24.000+ <b>One 3D Dark</b> Icons",
+    "✨ Themed <b>40.000+</b> Apps",
+  ]
+}
