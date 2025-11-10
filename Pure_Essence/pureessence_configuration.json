@@ -1,15 +1,15 @@
 {
-  "latestVersion": "5.7",
-  "latestVersionCode": 570,
+  "latestVersion": "5.8",
+  "latestVersionCode": 580,
   "disableRequest": {
-    "below": 570,
+    "below": 580,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.pureessence",
   "releaseNotes": [
-    "✅ Added 200+ <b>New</b> Black Icons",
-    "✨ Redesigned 10+ <b>Old</b> Icons",
-	"Icons requested up to 9 September added",
-	"Icons after 10 September coming next update"
+    "✅ Added 350+ <b>New</b> Black Icons",
+    "✨ Redesigned 150+ <b>Old</b> Icons",
+	"Icons requested up to 21 October added",
+	"Icons after 22 October coming next update"
   ]
 }
