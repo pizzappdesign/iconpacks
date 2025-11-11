@@ -1,13 +1,15 @@
 {
-  "latestVersion": "5.7",
-  "latestVersionCode": 570,
+  "latestVersion": "5.8",
+  "latestVersionCode": 580,
   "disableRequest": {
-    "below": 570,
+    "below": 580,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplything",
   "releaseNotes": [
-    "✅ 24.000+ <b>Simplything</b> Icons",
-    "✨ Themed <b>40.000+</b> Apps",
+    "✅ Added 800+ New <b>Simplything</b> Icons",
+    "✨ Redesigned 500+ <b>Old</b> Icons",
+	"Icons requested up to 21 October added",
+	"Icons after 22 October coming next update"
   ]
 }
