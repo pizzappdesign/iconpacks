@@ -1,15 +1,15 @@
 {
-  "latestVersion": "5.8",
-  "latestVersionCode": 580,
+  "latestVersion": "5.9",
+  "latestVersionCode": 590,
   "disableRequest": {
-    "below": 580,
+    "below": 590,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.novapixel",
   "releaseNotes": [
-    "✅ Added 800+ New <b>Nova Pixel</b> Icons",
-    "✨ Redesigned 500+ <b>Old</b> Icons",
-	"Icons requested up to 21 October added",
-	"Icons after 22 October coming next update"
+    "✅ Added 500+ New <b>Nova Pixel</b> Icons",
+    "✨ Redesigned 120+ <b>Old</b> Icons",
+	"Icons requested up to 20 November added",
+	"Icons after 21 November coming next update"
   ]
 }
