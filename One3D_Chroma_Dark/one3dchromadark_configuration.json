@@ -1,0 +1,13 @@
+{
+  "latestVersion": "5.9",
+  "latestVersionCode": 590,
+  "disableRequest": {
+    "below": 590,
+    "on": "0"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.italiano.one3dchromadark",
+  "releaseNotes": [
+    "✅ Include 25.000+ <b>One 3D Chroma Dark</b> Icons",
+    "✨ Covering 45.000+ <b>App/b> Icons"
+  ]
+}
