@@ -1,15 +1,15 @@
 {
-  "latestVersion": "5.9",
-  "latestVersionCode": 590,
+  "latestVersion": "6.0",
+  "latestVersionCode": 600,
   "disableRequest": {
-    "below": 590,
+    "below": 600,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.one3dcolor",
   "releaseNotes": [
     "✅ Added 500+ New <b>One 3D Color</b> Icons",
-    "✨ Redesigned 120+ <b>Old</b> Icons",
-	"Icons requested up to 20 November added",
-	"Icons after 21 November coming next update"
+    "✨ Redesigned 100+ <b>Old</b> Icons",
+	"Icons requested up to 13 December added",
+	"Icons after 14 December coming next update"
   ]
 }
