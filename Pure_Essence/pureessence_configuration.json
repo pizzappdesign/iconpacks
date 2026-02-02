@@ -1,15 +1,16 @@
 {
-  "latestVersion": "6.0",
-  "latestVersionCode": 600,
+  "latestVersion": "6.1",
+  "latestVersionCode": 610,
   "disableRequest": {
-    "below": 600,
+    "below": 610,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.pureessence",
   "releaseNotes": [
-    "✅ Added 150+ <b>New</b> Black Icons",
-    "✨ Redesigned 40+ <b>Old</b> Icons",
-	"Icons requested up to 13 December added",
-	"Icons after 14 December coming next update"
+    "✅ Added 400+ <b>New</b> Black Icons",
+    "✨ Redesigned 20+ <b>Old</b> Icons",
+	"📁 Folders, Letters and Numbers Added",
+	"Icons requested up to 10 January added",
+	"Icons after 11 January coming next update"
   ]
 }
