@@ -1,15 +1,16 @@
 {
-  "latestVersion": "6.0",
-  "latestVersionCode": 600,
+  "latestVersion": "6.1",
+  "latestVersionCode": 6.1,
   "disableRequest": {
-    "below": 600,
+    "below": 6.1,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.pastelcozy",
   "releaseNotes": [
-    "✅ Added 500+ New <b>Pastel Cozy</b> Icons",
+    "✅ Added 400+ New <b>Pastel Cozy</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 13 December added",
-	"Icons after 14 December coming next update"
+	"📁 Folders, Letters and Numbers Added",
+	"Icons requested up to 10 January added",
+	"Icons after 11 January coming next update"
   ]
 }
