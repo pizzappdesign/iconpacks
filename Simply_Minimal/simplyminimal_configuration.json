@@ -1,15 +1,15 @@
 {
-  "latestVersion": "6.2",
-  "latestVersionCode": 620,
+  "latestVersion": "6.3",
+  "latestVersionCode": 630,
   "disableRequest": {
-    "below": 620,
+    "below": 630,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplyminimal",
   "releaseNotes": [
-    "✅ Added 200+ <b>New</b> White Icons",
-    "✨ Redesigned 15+ <b>Old</b> Icons",
-	"Icons requested up to 4 February added",
-	"Icons after 5 February coming next update"
+    "✅ Added 130+ <b>New</b> White Icons",
+    "✨ Redesigned 10+ <b>Old</b> Icons",
+	"Icons requested up to 21 February added",
+	"Icons after 22 February coming next update"
   ]
 }
