@@ -1,15 +1,15 @@
 {
-  "latestVersion": "6.2",
-  "latestVersionCode": 6.2,
+  "latestVersion": "6.3",
+  "latestVersionCode": 6.3,
   "disableRequest": {
-    "below": 6.2,
+    "below": 6.3,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.nightvoid",
   "releaseNotes": [
-    "✅ Added 300+ New <b>Night Void</b> Icons",
+    "✅ Added 250+ New <b>Night Void</b> Icons",
     "✨ Redesigned 60+ <b>Old</b> Icons",
-	"Icons requested up to 4 February added",
-	"Icons after 5 February coming next update"
+	"Icons requested up to 21 February added",
+	"Icons after 22 February coming next update"
   ]
 }
