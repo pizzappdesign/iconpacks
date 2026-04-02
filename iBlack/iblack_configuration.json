@@ -1,15 +1,15 @@
 {
-  "latestVersion": "6.4",
-  "latestVersionCode": 6.4,
+  "latestVersion": "6.5",
+  "latestVersionCode": 650,
   "disableRequest": {
-    "below": 6.4,
+    "below": 650,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.iblack",
   "releaseNotes": [
-    "✅ Added 200+ New <b>iBlack</b> Icons",
-    "✨ Redesigned 500+ <b>Old</b> Icons",
-	"Icons requested up to 1 March added",
-	"Icons after 2 March coming next update"
+    "✅ Added 600+ New <b>iBlack</b> Icons",
+    "✨ Redesigned 1.400+ <b>Old</b> Icons",
+	"Icons requested up to 28 March added",
+	"Icons after 29 March coming next update"
   ]
 }
