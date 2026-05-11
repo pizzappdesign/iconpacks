@@ -1,15 +1,15 @@
 {
-  "latestVersion": "6.5",
-  "latestVersionCode": 650,
+  "latestVersion": "6.6",
+  "latestVersionCode": 660,
   "disableRequest": {
-    "below": 650,
+    "below": 660,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.orangecitrus",
   "releaseNotes": [
-    "✅ Added 600+ New <b>Orange Citrus</b> Icons",
-    "✨ Redesigned 1.400+ <b>Old</b> Icons",
-	"Icons requested up to 28 March added",
-	"Icons after 29 March coming next update"
+    "✅ Added 570+ New <b>Orange Citrus</b> Icons",
+    "✨ Redesigned 2.750+ <b>Old</b> Icons",
+	"Icons requested up to 5 May added",
+	"Icons after 6 May coming next update"
   ]
 }
