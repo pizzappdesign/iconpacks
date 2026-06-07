@@ -1,15 +1,15 @@
 {
-  "latestVersion": "6.6",
-  "latestVersionCode": 660,
+  "latestVersion": "6.7",
+  "latestVersionCode": 670,
   "disableRequest": {
-    "below": 660,
+    "below": 670,
     "on": "0"
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.expressivenight",
   "releaseNotes": [
-    "✅ Added 570+ New <b>Expressive Night</b> Icons",
-    "✨ Redesigned 2.750+ <b>Old</b> Icons",
-	"Icons requested up to 5 May added",
-	"Icons after 6 May coming next update"
+    "✅ Added 600+ New <b>Expressive Night</b> Icons",
+    "✨ Redesigned 200+ <b>Old</b> Icons",
+	"Icons requested up to 24 May added",
+	"Icons after 25 May coming next update"
   ]
 }
