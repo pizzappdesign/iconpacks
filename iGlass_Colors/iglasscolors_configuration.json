@@ -2,14 +2,45 @@
   "latestVersion": "6.8",
   "latestVersionCode": 680,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 680
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.iglasscolors",
   "releaseNotes": [
-    "✅ Added 400+ New <b>iGlass Dark</b> Icons",
+    "✅ Added 400+ New <b>iGlass Colors</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
 	"Icons requested up to 12 June added",
 	"Icons after 13 June coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "iGlass_Colors1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors1.jpg"
+    },
+    {
+      "name": "iGlass_Colors2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors2.jpg"
+    },
+    {
+      "name": "iGlass_Colors3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors3.jpg"
+    },
+    {
+      "name": "iGlass_Colors4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors4.jpg"
+    },
+    {
+      "name": "iGlass_Colors5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors5.jpg"
+    },
+    {
+      "name": "iGlass_Colors6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors6.jpg"
+    }
   ]
 }
