@@ -1,8 +1,8 @@
 {
   "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersionCode": 683,
   "disableRequest": {
-    "below": 680
+    "below": 683
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.iglasscolors",
   "releaseNotes": [
@@ -41,6 +41,76 @@
       "name": "iGlass_Colors6",
       "author": "PizzApp Design",
       "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors6.jpg"
+    },
+	{
+      "name": "iGlass_Colors7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors7.jpg"
+    },
+	{
+      "name": "iGlass_Colors8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors8.jpg"
+    },
+	{
+      "name": "iGlass_Colors9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors9.jpg"
+    },
+	{
+      "name": "iGlass_Colors10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors10.jpg"
+    },
+	{
+      "name": "iGlass_Colors11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors11.jpg"
+    },
+	{
+      "name": "iGlass_Colors12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors12.jpg"
+    },
+	{
+      "name": "iGlass_Colors13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors13.jpg"
+    },
+	{
+      "name": "iGlass_Colors14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors14.jpg"
+    },
+	{
+      "name": "iGlass_Colors15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors15.jpg"
+    },
+	{
+      "name": "iGlass_Colors16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors16.jpg"
+    },
+	{
+      "name": "iGlass_Colors17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors17.jpg"
+    },
+	{
+      "name": "iGlass_Colors18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors18.jpg"
+    },
+	{
+      "name": "iGlass_Colors19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors19.jpg"
+    },
+	{
+      "name": "iGlass_Colors20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iGlass_Colors/Wallpapers/iGlass_Colors20.jpg"
     }
   ]
 }
