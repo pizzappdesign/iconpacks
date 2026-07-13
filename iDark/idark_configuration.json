@@ -1,0 +1,116 @@
+{
+  "latestVersion": "6.8",
+  "latestVersionCode": 680,
+  "disableRequest": {
+    "below": 680
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.italiano.idark",
+  "releaseNotes": [
+    "✅ Added 400+ New <b>iGlass Colors</b> Icons",
+    "✨ Redesigned 100+ <b>Old</b> Icons",
+	"Icons requested up to 12 June added",
+	"Icons after 13 June coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "iDark1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark1.jpg"
+    },
+    {
+      "name": "iDark2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark2.jpg"
+    },
+    {
+      "name": "iDark3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark3.jpg"
+    },
+    {
+      "name": "iDark4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark4.jpg"
+    },
+    {
+      "name": "iDark5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark5.jpg"
+    },
+    {
+      "name": "iDark6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark6.jpg"
+    },
+	{
+      "name": "iDark7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark7.jpg"
+    },
+	{
+      "name": "iDark8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark8.jpg"
+    },
+	{
+      "name": "iDark9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark9.jpg"
+    },
+	{
+      "name": "iDark10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark10.jpg"
+    },
+	{
+      "name": "iDark11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark11.jpg"
+    },
+	{
+      "name": "iDark12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark12.jpg"
+    },
+	{
+      "name": "iDark13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark13.jpg"
+    },
+	{
+      "name": "iDark14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark14.jpg"
+    },
+	{
+      "name": "iDark15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark15.jpg"
+    },
+	{
+      "name": "iDark16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark16.jpg"
+    },
+	{
+      "name": "iDark17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark17.jpg"
+    },
+	{
+      "name": "iDark18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark18.jpg"
+    },
+	{
+      "name": "iDark19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark19.jpg"
+    },
+	{
+      "name": "iDark20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/iDark/Wallpapers/iDark20.jpg"
+    }
+  ]
+}
