@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.colorsshapeless",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Colors Shapeless</b> Icons",
+    "✅ Added 350+ New <b>Colors Shapeless</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Colors_Shapeless1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless1.jpg"
+    },
+    {
+      "name": "Colors_Shapeless2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless2.jpg"
+    },
+    {
+      "name": "Colors_Shapeless3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless3.jpg"
+    },
+    {
+      "name": "Colors_Shapeless4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless4.jpg"
+    },
+    {
+      "name": "Colors_Shapeless5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless5.jpg"
+    },
+    {
+      "name": "Colors_Shapeless6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless6.jpg"
+    },
+	{
+      "name": "Colors_Shapeless7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless7.jpg"
+    },
+	{
+      "name": "Colors_Shapeless8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless8.jpg"
+    },
+	{
+      "name": "Colors_Shapeless9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless9.jpg"
+    },
+	{
+      "name": "Colors_Shapeless10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless10.jpg"
+    },
+	{
+      "name": "Colors_Shapeless11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless11.jpg"
+    },
+	{
+      "name": "Colors_Shapeless12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless12.jpg"
+    },
+	{
+      "name": "Colors_Shapeless13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless13.jpg"
+    },
+	{
+      "name": "Colors_Shapeless14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless14.jpg"
+    },
+	{
+      "name": "Colors_Shapeless15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless15.jpg"
+    },
+	{
+      "name": "Colors_Shapeless16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless16.jpg"
+    },
+	{
+      "name": "Colors_Shapeless17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless17.jpg"
+    },
+	{
+      "name": "Colors_Shapeless18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless18.jpg"
+    },
+	{
+      "name": "Colors_Shapeless19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless19.jpg"
+    },
+	{
+      "name": "Colors_Shapeless20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Colors_Shapeless/Wallpapers/Colors_Shapeless20.jpg"
+    }
   ]
 }
