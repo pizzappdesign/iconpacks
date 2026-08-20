@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.expressiveshapes",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Expressive Shapes</b> Icons",
+    "✅ Added 350+ New <b>Expressive Shapes</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Expressive_Shapes1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes1.jpg"
+    },
+    {
+      "name": "Expressive_Shapes2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes2.jpg"
+    },
+    {
+      "name": "Expressive_Shapes3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes3.jpg"
+    },
+    {
+      "name": "Expressive_Shapes4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes4.jpg"
+    },
+    {
+      "name": "Expressive_Shapes5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes5.jpg"
+    },
+    {
+      "name": "Expressive_Shapes6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes6.jpg"
+    },
+	{
+      "name": "Expressive_Shapes7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes7.jpg"
+    },
+	{
+      "name": "Expressive_Shapes8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes8.jpg"
+    },
+	{
+      "name": "Expressive_Shapes9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes9.jpg"
+    },
+	{
+      "name": "Expressive_Shapes10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes10.jpg"
+    },
+	{
+      "name": "Expressive_Shapes11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes11.jpg"
+    },
+	{
+      "name": "Expressive_Shapes12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes12.jpg"
+    },
+	{
+      "name": "Expressive_Shapes13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes13.jpg"
+    },
+	{
+      "name": "Expressive_Shapes14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes14.jpg"
+    },
+	{
+      "name": "Expressive_Shapes15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes15.jpg"
+    },
+	{
+      "name": "Expressive_Shapes16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes16.jpg"
+    },
+	{
+      "name": "Expressive_Shapes17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes17.jpg"
+    },
+	{
+      "name": "Expressive_Shapes18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes18.jpg"
+    },
+	{
+      "name": "Expressive_Shapes19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes19.jpg"
+    },
+	{
+      "name": "Expressive_Shapes20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Expressive_Shapes/Wallpapers/Expressive_Shapes20.jpg"
+    }
   ]
 }
