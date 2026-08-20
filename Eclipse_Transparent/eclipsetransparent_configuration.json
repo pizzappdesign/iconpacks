@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.eclipsetransparent",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Eclipse Transparent</b> Icons",
+    "✅ Added 350+ New <b>Eclipse Transparent</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Eclipse_Transparent1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent1.jpg"
+    },
+    {
+      "name": "Eclipse_Transparent2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent2.jpg"
+    },
+    {
+      "name": "Eclipse_Transparent3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent3.jpg"
+    },
+    {
+      "name": "Eclipse_Transparent4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent4.jpg"
+    },
+    {
+      "name": "Eclipse_Transparent5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent5.jpg"
+    },
+    {
+      "name": "Eclipse_Transparent6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent6.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent7.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent8.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent9.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent10.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent11.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent12.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent13.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent14.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent15.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent16.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent17.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent18.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent19.jpg"
+    },
+	{
+      "name": "Eclipse_Transparent20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Eclipse_Transparent/Wallpapers/Eclipse_Transparent20.jpg"
+    }
   ]
 }
