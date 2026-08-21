@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.holoscent",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Holoscent</b> Icons",
+    "✅ Added 350+ New <b>Holoscent</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Holoscent1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent1.jpg"
+    },
+    {
+      "name": "Holoscent2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent2.jpg"
+    },
+    {
+      "name": "Holoscent3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent3.jpg"
+    },
+    {
+      "name": "Holoscent4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent4.jpg"
+    },
+    {
+      "name": "Holoscent5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent5.jpg"
+    },
+    {
+      "name": "Holoscent6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent6.jpg"
+    },
+	{
+      "name": "Holoscent7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent7.jpg"
+    },
+	{
+      "name": "Holoscent8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent8.jpg"
+    },
+	{
+      "name": "Holoscent9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent9.jpg"
+    },
+	{
+      "name": "Holoscent10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent10.jpg"
+    },
+	{
+      "name": "Holoscent11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent11.jpg"
+    },
+	{
+      "name": "Holoscent12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent12.jpg"
+    },
+	{
+      "name": "Holoscent13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent13.jpg"
+    },
+	{
+      "name": "Holoscent14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent14.jpg"
+    },
+	{
+      "name": "Holoscent15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent15.jpg"
+    },
+	{
+      "name": "Holoscent16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent16.jpg"
+    },
+	{
+      "name": "Holoscent17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent17.jpg"
+    },
+	{
+      "name": "Holoscent18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent18.jpg"
+    },
+	{
+      "name": "Holoscent19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent19.jpg"
+    },
+	{
+      "name": "Holoscent20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Holoscent/Wallpapers/Holoscent20.jpg"
+    }
   ]
 }
