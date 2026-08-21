@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.one3ddark",
   "releaseNotes": [
-    "✅ Added 400+ New <b>One 3D Dark</b> Icons",
+    "✅ Added 350+ New <b>One 3D Dark</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "One3D_Dark1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark1.jpg"
+    },
+    {
+      "name": "One3D_Dark2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark2.jpg"
+    },
+    {
+      "name": "One3D_Dark3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark3.jpg"
+    },
+    {
+      "name": "One3D_Dark4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark4.jpg"
+    },
+    {
+      "name": "One3D_Dark5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark5.jpg"
+    },
+    {
+      "name": "One3D_Dark6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark6.jpg"
+    },
+	{
+      "name": "One3D_Dark7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark7.jpg"
+    },
+	{
+      "name": "One3D_Dark8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark8.jpg"
+    },
+	{
+      "name": "One3D_Dark9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark9.jpg"
+    },
+	{
+      "name": "One3D_Dark10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark10.jpg"
+    },
+	{
+      "name": "One3D_Dark11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark11.jpg"
+    },
+	{
+      "name": "One3D_Dark12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark12.jpg"
+    },
+	{
+      "name": "One3D_Dark13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark13.jpg"
+    },
+	{
+      "name": "One3D_Dark14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark14.jpg"
+    },
+	{
+      "name": "One3D_Dark15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark15.jpg"
+    },
+	{
+      "name": "One3D_Dark16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark16.jpg"
+    },
+	{
+      "name": "One3D_Dark17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark17.jpg"
+    },
+	{
+      "name": "One3D_Dark18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark18.jpg"
+    },
+	{
+      "name": "One3D_Dark19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark19.jpg"
+    },
+	{
+      "name": "One3D_Dark20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_Dark/Wallpapers/One3D_Dark20.jpg"
+    }
   ]
 }
