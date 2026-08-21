@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.one3dwhite",
   "releaseNotes": [
-    "✅ Added 400+ New <b>One 3D White</b> Icons",
+    "✅ Added 350+ New <b>One 3D White</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "One3D_White1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White1.jpg"
+    },
+    {
+      "name": "One3D_White2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White2.jpg"
+    },
+    {
+      "name": "One3D_White3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White3.jpg"
+    },
+    {
+      "name": "One3D_White4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White4.jpg"
+    },
+    {
+      "name": "One3D_White5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White5.jpg"
+    },
+    {
+      "name": "One3D_White6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White6.jpg"
+    },
+	{
+      "name": "One3D_White7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White7.jpg"
+    },
+	{
+      "name": "One3D_White8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White8.jpg"
+    },
+	{
+      "name": "One3D_White9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White9.jpg"
+    },
+	{
+      "name": "One3D_White10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White10.jpg"
+    },
+	{
+      "name": "One3D_White11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White11.jpg"
+    },
+	{
+      "name": "One3D_White12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White12.jpg"
+    },
+	{
+      "name": "One3D_White13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White13.jpg"
+    },
+	{
+      "name": "One3D_White14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White14.jpg"
+    },
+	{
+      "name": "One3D_White15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White15.jpg"
+    },
+	{
+      "name": "One3D_White16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White16.jpg"
+    },
+	{
+      "name": "One3D_White17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White17.jpg"
+    },
+	{
+      "name": "One3D_White18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White18.jpg"
+    },
+	{
+      "name": "One3D_White19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White19.jpg"
+    },
+	{
+      "name": "One3D_White20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/One3D_White/Wallpapers/One3D_White20.jpg"
+    }
   ]
 }
