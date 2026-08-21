@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.halloweenpumpkin",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Halloween Pumpkin</b> Icons",
+    "✅ Added 350+ New <b>Halloween Pumpkin</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Halloween_Pumpkin1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin1.jpg"
+    },
+    {
+      "name": "Halloween_Pumpkin2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin2.jpg"
+    },
+    {
+      "name": "Halloween_Pumpkin3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin3.jpg"
+    },
+    {
+      "name": "Halloween_Pumpkin4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin4.jpg"
+    },
+    {
+      "name": "Halloween_Pumpkin5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin5.jpg"
+    },
+    {
+      "name": "Halloween_Pumpkin6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin6.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin7.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin8.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin9.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin10.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin11.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin12.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin13.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin14.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin15.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin16.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin17.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin18.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin19.jpg"
+    },
+	{
+      "name": "Halloween_Pumpkin20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Halloween_Pumpkin/Wallpapers/Halloween_Pumpkin20.jpg"
+    }
   ]
 }
