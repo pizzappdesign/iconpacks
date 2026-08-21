@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.nightvoid",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Night Void</b> Icons",
+    "✅ Added 350+ New <b>Night Void</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Night_Void1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void1.jpg"
+    },
+    {
+      "name": "Night_Void2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void2.jpg"
+    },
+    {
+      "name": "Night_Void3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void3.jpg"
+    },
+    {
+      "name": "Night_Void4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void4.jpg"
+    },
+    {
+      "name": "Night_Void5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void5.jpg"
+    },
+    {
+      "name": "Night_Void6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void6.jpg"
+    },
+	{
+      "name": "Night_Void7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void7.jpg"
+    },
+	{
+      "name": "Night_Void8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void8.jpg"
+    },
+	{
+      "name": "Night_Void9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void9.jpg"
+    },
+	{
+      "name": "Night_Void10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void10.jpg"
+    },
+	{
+      "name": "Night_Void11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void11.jpg"
+    },
+	{
+      "name": "Night_Void12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void12.jpg"
+    },
+	{
+      "name": "Night_Void13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void13.jpg"
+    },
+	{
+      "name": "Night_Void14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void14.jpg"
+    },
+	{
+      "name": "Night_Void15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void15.jpg"
+    },
+	{
+      "name": "Night_Void16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void16.jpg"
+    },
+	{
+      "name": "Night_Void17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void17.jpg"
+    },
+	{
+      "name": "Night_Void18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void18.jpg"
+    },
+	{
+      "name": "Night_Void19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void19.jpg"
+    },
+	{
+      "name": "Night_Void20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Night_Void/Wallpapers/Night_Void20.jpg"
+    }
   ]
 }
