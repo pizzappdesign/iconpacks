@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.midnightdark",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Midnight Dark</b> Icons",
+    "✅ Added 350+ New <b>Midnight Dark</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Midnight_Dark1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark1.jpg"
+    },
+    {
+      "name": "Midnight_Dark2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark2.jpg"
+    },
+    {
+      "name": "Midnight_Dark3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark3.jpg"
+    },
+    {
+      "name": "Midnight_Dark4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark4.jpg"
+    },
+    {
+      "name": "Midnight_Dark5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark5.jpg"
+    },
+    {
+      "name": "Midnight_Dark6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark6.jpg"
+    },
+	{
+      "name": "Midnight_Dark7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark7.jpg"
+    },
+	{
+      "name": "Midnight_Dark8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark8.jpg"
+    },
+	{
+      "name": "Midnight_Dark9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark9.jpg"
+    },
+	{
+      "name": "Midnight_Dark10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark10.jpg"
+    },
+	{
+      "name": "Midnight_Dark11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark11.jpg"
+    },
+	{
+      "name": "Midnight_Dark12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark12.jpg"
+    },
+	{
+      "name": "Midnight_Dark13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark13.jpg"
+    },
+	{
+      "name": "Midnight_Dark14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark14.jpg"
+    },
+	{
+      "name": "Midnight_Dark15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark15.jpg"
+    },
+	{
+      "name": "Midnight_Dark16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark16.jpg"
+    },
+	{
+      "name": "Midnight_Dark17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark17.jpg"
+    },
+	{
+      "name": "Midnight_Dark18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark18.jpg"
+    },
+	{
+      "name": "Midnight_Dark19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark19.jpg"
+    },
+	{
+      "name": "Midnight_Dark20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Midnight_Dark/Wallpapers/Midnight_Dark20.jpg"
+    }
   ]
 }
