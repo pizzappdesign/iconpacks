@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.orangecitrus",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Orange Citrus</b> Icons",
+    "✅ Added 350+ New <b>Orange Citrus</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Orange_Citrus1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus1.jpg"
+    },
+    {
+      "name": "Orange_Citrus2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus2.jpg"
+    },
+    {
+      "name": "Orange_Citrus3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus3.jpg"
+    },
+    {
+      "name": "Orange_Citrus4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus4.jpg"
+    },
+    {
+      "name": "Orange_Citrus5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus5.jpg"
+    },
+    {
+      "name": "Orange_Citrus6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus6.jpg"
+    },
+	{
+      "name": "Orange_Citrus7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus7.jpg"
+    },
+	{
+      "name": "Orange_Citrus8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus8.jpg"
+    },
+	{
+      "name": "Orange_Citrus9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus9.jpg"
+    },
+	{
+      "name": "Orange_Citrus10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus10.jpg"
+    },
+	{
+      "name": "Orange_Citrus11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus11.jpg"
+    },
+	{
+      "name": "Orange_Citrus12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus12.jpg"
+    },
+	{
+      "name": "Orange_Citrus13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus13.jpg"
+    },
+	{
+      "name": "Orange_Citrus14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus14.jpg"
+    },
+	{
+      "name": "Orange_Citrus15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus15.jpg"
+    },
+	{
+      "name": "Orange_Citrus16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus16.jpg"
+    },
+	{
+      "name": "Orange_Citrus17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus17.jpg"
+    },
+	{
+      "name": "Orange_Citrus18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus18.jpg"
+    },
+	{
+      "name": "Orange_Citrus19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus19.jpg"
+    },
+	{
+      "name": "Orange_Citrus20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Orange_Citrus/Wallpapers/Orange_Citrus20.jpg"
+    }
   ]
 }
