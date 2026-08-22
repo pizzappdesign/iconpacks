@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.sapphireblue",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Sapphire Blue</b> Icons",
+    "✅ Added 350+ New <b>Sapphire Blue</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Sapphire_Blue1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue1.jpg"
+    },
+    {
+      "name": "Sapphire_Blue2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue2.jpg"
+    },
+    {
+      "name": "Sapphire_Blue3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue3.jpg"
+    },
+    {
+      "name": "Sapphire_Blue4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue4.jpg"
+    },
+    {
+      "name": "Sapphire_Blue5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue5.jpg"
+    },
+    {
+      "name": "Sapphire_Blue6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue6.jpg"
+    },
+	{
+      "name": "Sapphire_Blue7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue7.jpg"
+    },
+	{
+      "name": "Sapphire_Blue8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue8.jpg"
+    },
+	{
+      "name": "Sapphire_Blue9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue9.jpg"
+    },
+	{
+      "name": "Sapphire_Blue10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue10.jpg"
+    },
+	{
+      "name": "Sapphire_Blue11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue11.jpg"
+    },
+	{
+      "name": "Sapphire_Blue12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue12.jpg"
+    },
+	{
+      "name": "Sapphire_Blue13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue13.jpg"
+    },
+	{
+      "name": "Sapphire_Blue14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue14.jpg"
+    },
+	{
+      "name": "Sapphire_Blue15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue15.jpg"
+    },
+	{
+      "name": "Sapphire_Blue16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue16.jpg"
+    },
+	{
+      "name": "Sapphire_Blue17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue17.jpg"
+    },
+	{
+      "name": "Sapphire_Blue18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue18.jpg"
+    },
+	{
+      "name": "Sapphire_Blue19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue19.jpg"
+    },
+	{
+      "name": "Sapphire_Blue20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Sapphire_Blue/Wallpapers/Sapphire_Blue20.jpg"
+    }
   ]
 }
