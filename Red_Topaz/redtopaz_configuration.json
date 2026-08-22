@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.redtopaz",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Red Topaz</b> Icons",
+    "✅ Added 350+ New <b>Red Topaz</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Red_Topaz1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz1.jpg"
+    },
+    {
+      "name": "Red_Topaz2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz2.jpg"
+    },
+    {
+      "name": "Red_Topaz3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz3.jpg"
+    },
+    {
+      "name": "Red_Topaz4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz4.jpg"
+    },
+    {
+      "name": "Red_Topaz5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz5.jpg"
+    },
+    {
+      "name": "Red_Topaz6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz6.jpg"
+    },
+	{
+      "name": "Red_Topaz7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz7.jpg"
+    },
+	{
+      "name": "Red_Topaz8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz8.jpg"
+    },
+	{
+      "name": "Red_Topaz9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz9.jpg"
+    },
+	{
+      "name": "Red_Topaz10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz10.jpg"
+    },
+	{
+      "name": "Red_Topaz11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz11.jpg"
+    },
+	{
+      "name": "Red_Topaz12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz12.jpg"
+    },
+	{
+      "name": "Red_Topaz13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz13.jpg"
+    },
+	{
+      "name": "Red_Topaz14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz14.jpg"
+    },
+	{
+      "name": "Red_Topaz15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz15.jpg"
+    },
+	{
+      "name": "Red_Topaz16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz16.jpg"
+    },
+	{
+      "name": "Red_Topaz17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz17.jpg"
+    },
+	{
+      "name": "Red_Topaz18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz18.jpg"
+    },
+	{
+      "name": "Red_Topaz19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz19.jpg"
+    },
+	{
+      "name": "Red_Topaz20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Red_Topaz/Wallpapers/Red_Topaz20.jpg"
+    }
   ]
 }
