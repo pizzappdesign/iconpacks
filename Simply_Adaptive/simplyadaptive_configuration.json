@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplyadaptive",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Simply Adaptive</b> Icons",
+    "✅ Added 350+ New <b>Simply Adaptive</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Simply_Adaptive1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive1.jpg"
+    },
+    {
+      "name": "Simply_Adaptive2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive2.jpg"
+    },
+    {
+      "name": "Simply_Adaptive3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive3.jpg"
+    },
+    {
+      "name": "Simply_Adaptive4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive4.jpg"
+    },
+    {
+      "name": "Simply_Adaptive5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive5.jpg"
+    },
+    {
+      "name": "Simply_Adaptive6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive6.jpg"
+    },
+	{
+      "name": "Simply_Adaptive7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive7.jpg"
+    },
+	{
+      "name": "Simply_Adaptive8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive8.jpg"
+    },
+	{
+      "name": "Simply_Adaptive9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive9.jpg"
+    },
+	{
+      "name": "Simply_Adaptive10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive10.jpg"
+    },
+	{
+      "name": "Simply_Adaptive11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive11.jpg"
+    },
+	{
+      "name": "Simply_Adaptive12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive12.jpg"
+    },
+	{
+      "name": "Simply_Adaptive13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive13.jpg"
+    },
+	{
+      "name": "Simply_Adaptive14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive14.jpg"
+    },
+	{
+      "name": "Simply_Adaptive15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive15.jpg"
+    },
+	{
+      "name": "Simply_Adaptive16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive16.jpg"
+    },
+	{
+      "name": "Simply_Adaptive17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive17.jpg"
+    },
+	{
+      "name": "Simply_Adaptive18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive18.jpg"
+    },
+	{
+      "name": "Simply_Adaptive19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive19.jpg"
+    },
+	{
+      "name": "Simply_Adaptive20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simply_Adaptive/Wallpapers/Simply_Adaptive20.jpg"
+    }
   ]
 }
