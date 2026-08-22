@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.springseason",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Spring Season</b> Icons",
+    "✅ Added 350+ New <b>Spring Season</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Spring_Season1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season1.jpg"
+    },
+    {
+      "name": "Spring_Season2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season2.jpg"
+    },
+    {
+      "name": "Spring_Season3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season3.jpg"
+    },
+    {
+      "name": "Spring_Season4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season4.jpg"
+    },
+    {
+      "name": "Spring_Season5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season5.jpg"
+    },
+    {
+      "name": "Spring_Season6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season6.jpg"
+    },
+	{
+      "name": "Spring_Season7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season7.jpg"
+    },
+	{
+      "name": "Spring_Season8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season8.jpg"
+    },
+	{
+      "name": "Spring_Season9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season9.jpg"
+    },
+	{
+      "name": "Spring_Season10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season10.jpg"
+    },
+	{
+      "name": "Spring_Season11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season11.jpg"
+    },
+	{
+      "name": "Spring_Season12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season12.jpg"
+    },
+	{
+      "name": "Spring_Season13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season13.jpg"
+    },
+	{
+      "name": "Spring_Season14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season14.jpg"
+    },
+	{
+      "name": "Spring_Season15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season15.jpg"
+    },
+	{
+      "name": "Spring_Season16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season16.jpg"
+    },
+	{
+      "name": "Spring_Season17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season17.jpg"
+    },
+	{
+      "name": "Spring_Season18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season18.jpg"
+    },
+	{
+      "name": "Spring_Season19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season19.jpg"
+    },
+	{
+      "name": "Spring_Season20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Spring_Season/Wallpapers/Spring_Season20.jpg"
+    }
   ]
 }
