@@ -1,15 +1,116 @@
 {
-  "latestVersion": "6.8",
-  "latestVersionCode": 680,
+  "latestVersion": "6.9",
+  "latestVersionCode": 690,
   "disableRequest": {
-    "below": 680,
-    "on": "0"
+    "below": 690
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.simplything",
   "releaseNotes": [
-    "✅ Added 400+ New <b>Simplything</b> Icons",
+    "✅ Added 350+ New <b>Simplything</b> Icons",
     "✨ Redesigned 100+ <b>Old</b> Icons",
-	"Icons requested up to 12 June added",
-	"Icons after 13 June coming next update"
+	"Icons requested up to 6 July added",
+	"Icons after 7 July coming next update"
+  ],
+  "wallpapers": [
+    {
+      "name": "Simplything1",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything1.jpg"
+    },
+    {
+      "name": "Simplything2",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything2.jpg"
+    },
+    {
+      "name": "Simplything3",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything3.jpg"
+    },
+    {
+      "name": "Simplything4",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything4.jpg"
+    },
+    {
+      "name": "Simplything5",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything5.jpg"
+    },
+    {
+      "name": "Simplything6",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything6.jpg"
+    },
+	{
+      "name": "Simplything7",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything7.jpg"
+    },
+	{
+      "name": "Simplything8",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything8.jpg"
+    },
+	{
+      "name": "Simplything9",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything9.jpg"
+    },
+	{
+      "name": "Simplything10",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything10.jpg"
+    },
+	{
+      "name": "Simplything11",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything11.jpg"
+    },
+	{
+      "name": "Simplything12",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything12.jpg"
+    },
+	{
+      "name": "Simplything13",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything13.jpg"
+    },
+	{
+      "name": "Simplything14",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything14.jpg"
+    },
+	{
+      "name": "Simplything15",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything15.jpg"
+    },
+	{
+      "name": "Simplything16",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything16.jpg"
+    },
+	{
+      "name": "Simplything17",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything17.jpg"
+    },
+	{
+      "name": "Simplything18",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything18.jpg"
+    },
+	{
+      "name": "Simplything19",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything19.jpg"
+    },
+	{
+      "name": "Simplything20",
+      "author": "PizzApp Design",
+      "url": "https://raw.githubusercontent.com/pizzappdesign/iconpacks/main/Simplything/Wallpapers/Simplything20.jpg"
+    }
   ]
 }
