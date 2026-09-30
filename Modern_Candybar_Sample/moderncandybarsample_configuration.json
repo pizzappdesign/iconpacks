@@ -1,8 +1,8 @@
 {
-  "latestVersion": "6.9",
-  "latestVersionCode": 690,
+  "latestVersion": "7.0",
+  "latestVersionCode": 700,
   "disableRequest": {
-    "below": 690
+    "below": 700
   },
   "url": "https://play.google.com/store/apps/details?id=dev.moderncandybar.sample",
   "releaseNotes": [
