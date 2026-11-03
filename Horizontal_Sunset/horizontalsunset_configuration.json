@@ -1,15 +1,15 @@
 {
-  "latestVersion": "7.1",
-  "latestVersionCode": 710,
+  "latestVersion": "7.2",
+  "latestVersionCode": 720,
   "disableRequest": {
-    "below": 710
+    "below": 720
   },
   "url": "https://play.google.com/store/apps/details?id=com.italiano.horizontalsunset",
   "releaseNotes": [
-    "✅ Added 500+ New <b>Horizontal Sunset</b> Icons",
-    "✨ Redesigned 150+ <b>Old</b> Icons",
-	"Icons requested up to 6 October added",
-	"Icons after 7 October coming next update"
+    "✅ Added 400+ New <b>Horizontal Sunset</b> Icons",
+    "✨ Redesigned 100+ <b>Old</b> Icons",
+	"Icons requested up to 26 October added",
+	"Icons after 27 October coming next update"
   ],
   "wallpapers": [
     {
